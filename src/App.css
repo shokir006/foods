@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ena {
+  margin-top: 57px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+width: 600px;
+height: 400px;
+}
+
+.ena img{
+  
+}
+
+.about{
+  background-image: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D);
+  width: 100%;
+  margin-top: 10px;
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+.main_bosh {
+  background-color: black;
+  max-width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
